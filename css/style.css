@@ -1429,6 +1429,13 @@ h3 {
   width: 80%;
 }
 
+@media (max-width: 767px) {
+  /* line 73, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_service.scss */
+  .ilstrator_thumb {
+    width: 100%;
+  }
+}
+
 /* line 37, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_slider.scss */
 .slider_area .single_slider .phone_thumb {
   position: relative;
@@ -3189,6 +3196,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 73, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_service.scss */
   .compapy_info .man_thumb {
+    padding-top: 30%;
     padding-right: 0;
   }
 }
@@ -3196,6 +3204,7 @@ h3 {
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 73, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_service.scss */
   .compapy_info .man_thumb {
+      padding-top: 30%;
     padding-right: 0;
   }
 }
